@@ -3732,9 +3732,9 @@ framer-motion@^1.2.4:
     stylefire "^6.0.4"
     tslib "^1.10.0"
 
-framer@1.0.14:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.14.tgz#c28e018e7777e43bcbe7ac750cb0a57c18a01949"
+framer@1.0.17:
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.17.tgz#2f7bc2588db015e9c8dd835a33a5f74193be3076"
 
 framesync@^4.0.0, framesync@^4.0.4:
   version "4.0.4"
@@ -6802,8 +6802,8 @@ postcss-values-parser@^2.0.0, postcss-values-parser@^2.0.1:
     uniq "^1.0.1"
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.5, postcss@^7.0.6:
-  version "7.0.17"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.17.tgz#4da1bdff5322d4a0acaab4d87f3e782436bad31f"
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
