@@ -2841,8 +2841,8 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-equal@^1.0.1:
   version "1.0.1"
@@ -3732,9 +3732,9 @@ framer-motion@^1.2.4:
     stylefire "^6.0.4"
     tslib "^1.10.0"
 
-framer@1.0.14:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.14.tgz#c28e018e7777e43bcbe7ac750cb0a57c18a01949"
+framer@1.0.17:
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-1.0.17.tgz#2f7bc2588db015e9c8dd835a33a5f74193be3076"
 
 framesync@^4.0.0, framesync@^4.0.4:
   version "4.0.4"
